@@ -1,0 +1,11 @@
+name: Casjay
+description: Distributed computing
+avatar: https://avatars3.githubusercontent.com/u/126880?s=180&v=4
+theme: jekyll-theme-midnight
+show_downloads: false
+disqus:
+google_analytics:
+footer-links:
+  github: casjay
+  rss: /rss
+  twitter: casjay
